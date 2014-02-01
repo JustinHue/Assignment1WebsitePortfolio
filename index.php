@@ -29,7 +29,7 @@
 		<div class="small-8 medium-8 large-8 medium-centered large-centered columns">
 	<ul class="example-orbit" data-orbit>
 		<li>
-			<img src="img/logo.png" alt="slide 1" />
+			<img src="img/ritz_screen.png" alt="slide 1" />
 			<div class="orbit-caption">
 				Ritz Python Project
 			</div>
@@ -41,9 +41,9 @@
                         </div>
                 </li>
                 <li>
-                        <img src="img/logo.png" alt="slide 3" />
+                        <img src="img/grabidelov.jpg" alt="slide 3" />
                         <div class="orbit-caption">
-                                Hellsten Inc.
+                                Grabidelov
                         </div>
                 </li>
 	</ul>
